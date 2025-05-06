@@ -1,0 +1,3 @@
+robotframework==5.0.1  # Core framework for running tests
+robotframework-seleniumlibrary==6.0.0  # Library for browser automation
+openpyxl==3.0.9  # Library for reading Excel files 

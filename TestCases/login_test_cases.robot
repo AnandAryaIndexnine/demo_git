@@ -13,6 +13,7 @@ Valid Login
     ${username}    ${password} =    Get Login Data    1
     Enter Credentials    ${username}    ${password}
     Click Login
+    Sleep    10s
     # Add verification steps here
 
 Invalid Login

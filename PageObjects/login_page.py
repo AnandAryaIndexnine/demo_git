@@ -7,3 +7,4 @@ class LoginPage:
     ERROR_MESSAGE = "id=errorMessage"
     LOGIN_BUTTON = "id=loginButton"
     LOGOUT_BUTTON = "id=logoutButton"
+    USER_NAME_FIELD = "id=username"

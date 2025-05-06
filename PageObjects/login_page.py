@@ -5,3 +5,5 @@ class LoginPage:
     LOGIN_BUTTON = "id=loginButton" 
     POPUP_BUTTON = "id=popupButton"
     ERROR_MESSAGE = "id=errorMessage"
+    LOGIN_BUTTON = "id=loginButton"
+    LOGOUT_BUTTON = "id=logoutButton"

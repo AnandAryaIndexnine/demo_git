@@ -10,6 +10,7 @@ Open Login Page
     [Documentation]    Open the login page in the browser.
     Open Browser    ${LOGIN_URL}    Chrome
     Maximize Browser Window
+    Maximize Browser Window
 
 Enter Credentials
     [Arguments]    ${username}    ${password}

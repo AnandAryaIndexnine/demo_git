@@ -9,11 +9,5 @@ class LoginPage:
     LOGOUT_BUTTON = "id=logoutButton"
     USER_NAME_FIELD = "id=username"
     Serial_key = "123456876"
-    PASSWORD_FIELD = "741425852"
-    USER_NAME_FIELD = "malay"
-    LOGIN_BUTTON = "id=loginButton"
-    LOGOUT_BUTTON = "id=logoutButton"
-    USER_NAME_FIELD = "id=username"
-    PASSWORD_FIELD = "id=password"
-    LOGIN_BUTTON = "id=loginButton"
-    LOGOUT_BUTTON = "id=logoutButton"
+
+
